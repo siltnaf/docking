@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\dock" 
+PRINT(".\Listings\dock.m51") RAMSIZE(256) 
